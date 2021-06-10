@@ -1,1 +1,33 @@
-hello
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+#explanation {
+    color: gray;
+    font-size: 21px;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
